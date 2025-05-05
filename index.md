@@ -1,4 +1,5 @@
-<h1>imagexdx
-<h2>varun
+<h1>image
+ image 
+
   
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
